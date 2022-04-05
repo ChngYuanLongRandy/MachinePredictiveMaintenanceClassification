@@ -1,0 +1,6 @@
+# python runtime 3.9.9
+matplotlib
+numpy
+seaborn
+sklearn
+pandas

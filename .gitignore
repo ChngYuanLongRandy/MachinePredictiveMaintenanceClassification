@@ -1,0 +1,5 @@
+# ignore venve
+.*/
+
+# ignore zipfile
+archive.zip
