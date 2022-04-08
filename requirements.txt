@@ -4,3 +4,5 @@ numpy
 seaborn
 sklearn
 pandas
+imblearn
+lightgbm
